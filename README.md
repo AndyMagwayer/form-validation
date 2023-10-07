@@ -1,5 +1,5 @@
 # Form Validation
-![alt text](image URL)
+![Screen](https://github.com/AndyMagwayer/form-validation/blob/main/Form-Validation-01.png)
 
 This is a simple form validation project built with HTML, CSS, and JavaScript. It provides basic client-side validation for input fields in a form.
  ## Deploy:
