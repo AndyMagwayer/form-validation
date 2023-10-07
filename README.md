@@ -1,7 +1,8 @@
 # Form Validation
 
 This is a simple form validation project built with HTML, CSS, and JavaScript. It provides basic client-side validation for input fields in a form.
-
+ ## Deploy:
+https://orm-validation-magamed.netlify.app/
 ## Installation
 
 1. Clone the repository:
